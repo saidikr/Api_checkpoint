@@ -1,0 +1,8 @@
+
+.App{
+  background-color: gray;
+  overflow-x: hidden;
+}
+.details{
+  height: 100vh;
+}
